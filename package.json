@@ -1,0 +1,14 @@
+{
+  "name": "eslint-config-yhj96",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/YHJ96/eslint-config-yhj96.git",
+  "author": "양희준 <88187322+YHJ96@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.42.0"
+  },
+  "peerDependencies": {
+    "eslint": "^8.42.0"
+  }
+}
