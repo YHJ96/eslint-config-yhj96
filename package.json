@@ -1,11 +1,11 @@
 {
   "name": "eslint-config-yhj961",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "main": "index.js",
   "repository": "https://github.com/YHJ96/eslint-config-yhj96.git",
   "author": "양희준 <88187322+YHJ96@users.noreply.github.com>",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "eslint": "^8.42.0",
     "@typescript-eslint/eslint-plugin": "^5.59.11",
     "@typescript-eslint/parser": "^5.59.11"
