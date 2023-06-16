@@ -1,4 +1,4 @@
-const javascript = require("./src/auto");
+const javascript = require("./src/javacript");
 
 module.exports = {
   ...javascript,
